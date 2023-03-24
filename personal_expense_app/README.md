@@ -3,10 +3,11 @@
 Personal Expense App with Flutter.
 
 ## Screenshot
-![all](../img/all.png)
+<img src="../img/all.png" alt="All" width="500" height="auto"/>
 
-![delete](../img/delete.png)
+<img src="../img/delete.png" alt="Delete" width="500" height="auto"/>
 
-![add](../img/add.png)
+<img src="../img/add.png" alt="Add" width="500" height="auto"/>
 
-![added](../img/added.png)
+<img src="../img/added.png" alt="Added" width="500" height="auto"/>
+
