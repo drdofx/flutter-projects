@@ -1,16 +1,19 @@
 # meal_app
 
-A new Flutter project.
+Meal Master! App made with Flutter.
 
-## Getting Started
+## Screenshot
+<img src="../img/category-grid.png" alt="All" width="500" height="auto"/>
 
-This project is a starting point for a Flutter application.
+<img src="../img/category.png" alt="Delete" width="500" height="auto"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="../img/meal detail.png" alt="Add" width="500" height="auto"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="../img/meal detail fav.png" alt="Added" width="500" height="auto"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="../img/favorites.png" alt="Added" width="500" height="auto"/>
+
+<img src="../img/drawers.png" alt="Added" width="500" height="auto"/>
+
+<img src="../img/filters.png" alt="Added" width="500" height="auto"/>
+
