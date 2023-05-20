@@ -1,16 +1,11 @@
 # shopping_list_app
 
-A new Flutter project.
+Shopping list app is a simple app that allows you to add items to a list and delete them. Built with Flutter.
 
-## Getting Started
+## Screenshot
+<img src="../img/home.png" alt="All" width="500" height="auto"/>
 
-This project is a starting point for a Flutter application.
+<img src="../img/newitem.png" alt="Delete" width="500" height="auto"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="../img/homeadded.png" alt="Add" width="500" height="auto"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
