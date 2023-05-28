@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 
 import 'package:shopping_list/data/categories.dart';
@@ -29,9 +30,7 @@ class _NewItemState extends State<NewItem> {
       setState(() {
         _isSending = true;
       });
-      final url = Uri.https(
-          'shopapp-aa7f3-default-rtdb.asia-southeast1.firebasedatabase.app',
-          'shopping-list.json');
+      final url = Uri.https(dotenv.env['FIREBASE_URL']!, 'shopping-list.json');
       final response = await http.post(
         url,
         headers: {
